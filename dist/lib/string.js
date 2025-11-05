@@ -1,4 +1,4 @@
-import pkg from 'printj';
+import * as pkg from 'printj';
 const { sprintf } = pkg;
 import { Table } from '../Table.js';
 import { LuaError } from '../LuaError.js';
