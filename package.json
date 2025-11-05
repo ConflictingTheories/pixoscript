@@ -1,0 +1,35 @@
+{
+  "name": "pixoscript",
+  "version": "1.0.0",
+  "description": "A custom Lua-like scripting language for Pixos game engine",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "lua",
+    "scripting",
+    "game-engine",
+    "pixos",
+    "calliope",
+    "pixos",
+    "html5",
+    "game",
+    "react",
+    "game",
+    "webgl",
+    "canvas"
+  ],
+  "homepage": "https://pixospritz.com",
+  "repository": {
+    "url": "https://github.com/ConflictingTheories/pixoscript.git",
+    "type": "git"
+  },
+  "author": "Kyle Derby MacInnis",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@types/luaparse": "^0.2.13",
+    "typescript": "^5.9.3"
+  }
+}
